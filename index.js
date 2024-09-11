@@ -72,6 +72,13 @@ const logs = [
     "yuktobania-army.html",
     "yuktobania-general.html",
     "yuktobania-lore.html",
+    "active-war-gamma.html",
+    "active-warfare-alpha.html",
+    "active-warfare-beta.html",
+    "active-warfare-sigma.html",
+    "events-channel-s3.html",
+    "war-threads.html",
+    "warfare-alpha.html",
     "yuktobania-navy.html"
   ];
   
