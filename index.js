@@ -98,7 +98,8 @@ const logs = [
   "yuktobania-army.html",
   "yuktobania-general.html",
   "yuktobania-lore.html",
-  "yuktobania-navy.html"
+  "yuktobania-navy.html",
+  "test-news"
 ];
   
 function capitalize(str) {
